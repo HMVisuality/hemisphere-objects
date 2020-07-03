@@ -1,0 +1,68 @@
+[
+ {
+	 "season" : "Winter Season",
+	 "name" : "Winter",
+	 "temperature" : "Coldest",
+	 "date" : "1 June - 31 August",
+	 "info" : {
+	 	"facts" : [
+			"The Southern Hemisphere winter lasts from the Winter Solstice (varying between 20 and 21 June) to the Vernal Equinox around 21 September",
+			"At the time when North Pole is tilted towards the Sun the South Pole is tilted away from the Sun then the Southern Hemisphere experiences winter solstice",
+			"The large ocean areas in the Southern Hemisphere prevent winter from getting too cold, except in Antarctica",
+			"Most of the land mass of the Southern Hemisphere is closer to the equator. The closer to the equator, generally the warmer the climate",
+			"Southern Hemisphere is mostly ocean and then Antarctica and they aren't inhabited. This will give the illusion that the north is colder than the south",
+			"In the Southern Hemisphere winter solstice is the “shortest day” of the year. The day with the shortest time between sunrise and sunset is the day of the June which falls on or near the 21st of June"
+		],
+		"note" : ["“Shortest day” meaning the least amount of sunlight"]
+	 }
+ },
+ {
+	 "season" : "Spring Season",
+	 "name" : "Spring",
+	 "temperature" : "Varmer",
+	 "date" : "1 September - 30 November",
+	 "info" : {
+	 	"facts" : [
+			"In the Southern Hemisphere, springtime lasts from August until November",
+			"At the spring the days and nights are approximately twelve hours long, with day length increasing and night length decreasing as the season progresses",
+			"In spring, the Earth’s axis is tilted toward the Sun, increasing the number of daylight hours and bringing warmer weather",
+			"On the first day of spring, a person at the South Pole would see the Sun skimming across the horizon, signaling the start of six months of darkness",
+			"Many trees, flowers, plants and bulbs begin to grow during the Spring because of ample availability of water, light, warmth and soil (compost)",
+			"As it stays light for longer in spring, birds know it is time to find a mate. They do this by singing to each other"
+		],
+		"note" : ["Photophile a person who loves light"]
+	 }
+ },
+ {
+	 "season" : "Summer Season",
+	 "name" : "Summer",
+	 "temperature" : "Varmest",
+	 "date" : "1 December - 28 February",
+	 "info" : {
+	 	"facts" : [
+      "When the Southern Hemisphere is tilted more towards the Sun, which begins between December 20th and December 23rd each year, the Southern Hemisphere's summer season begins",
+			"December, January, and February are the warmest months in the Southern Hemisphere",
+			"Summers in Southern Hemisphere is slightly colder the the northern summers, there is more land in the Northern Hemisphere, and more water bodies in the Southern Hemisphere. Water can hold a lot of heat while land cannot, land heats up faster and also cools off faster than water",
+			"The summer solstice occurs between December 20 and December 23 in the Southern Hemisphere",
+			"Day with the longest time between sunrise and sunset is the day of the December (summer) solstice, which falls on or near the 21st of December",
+			"The hottest temperatures usually occur in January in the Southern Hemisphere"
+		],
+    "note" : ["Heliophile a lover of the Sun"]
+	 }
+ },
+ {
+	 "season" : "Autumn Season",
+	 "name" : "Autumn",
+	 "temperature" : "Colder",
+	 "date" : "1 March - 31 May",
+	 "info" : {
+	 	"facts" : [
+			"In the Southern Hemisphere, autumn lasts from March 21 until June 21",
+			"Autumn begins when the center of the Sun crosses Earth’s equator. As Earth continues its path around the Sun, days become shorter and nights become longer",
+			"The date of the beginning of autumn varies according to climate, tradition and culture, but when it is autumn in the Southern Hemisphere, it is spring in the Northern Hemisphere",
+			"The first day of autumn, the autumnal equinox, has 12 hours of daylight and 12 hours of darkness. The term equinox comes from the Latin words aequus, meaning equal and nox, meaning night"
+		],
+		"note" : ["Nyctophilia is a person who loves darkness and nights"]
+	 }
+ }
+]
