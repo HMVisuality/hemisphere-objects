@@ -1,0 +1,65 @@
+[
+ {
+	 "season" : "Winter Season",
+	 "name" : "Winter",
+	 "temperature" : "Coldest",
+	 "date" : "1 December - 28 February",
+	 "info" : {
+	 	"facts" : [
+			"In the Northern Hemisphere winter lasts from the Winter Solstice (varying between 20 and 22 December) to the Vernal Equinox (varying between 19 and 21 March)",
+			"Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun",
+			"Seasonal snow is an important part of Earth's climate system, snow cover helps regulate the temperature of the Earth's surface",
+			"In winter when the Earth is on the other side of its orbit, the Earth's North Pole is tipped away from the Sun",
+			"In the early month of January the Earth is closest to the Sun when it's winter for the Northern Hemisphere"
+		],
+		"note" : ["Chionophile is a person who loves cold weather, snow"]
+	 }
+ },
+ {
+	 "season" : "Spring Season",
+	 "name" : "Spring",
+	 "temperature" : "warmer",
+	 "date" : "1 March - 31 May",
+	 "info" : {
+	 	"facts" : [
+      "For meteorologists, spring in the Northern Hemisphere begins three weeks before the March Equinox on March 1 and ends on May 31",
+			"The actual Northern Hemisphere Spring lasts from the Vernal Equinox (varying between 19 and 21 March) to the Summer Solstice (around 21 June)",
+			"The first day of spring, the vernal equinox, has 12 hours of daylight and 12 hours of darkness",
+			"On the first day of spring, a person at the North Pole would see the Sun skimming across the horizon, beginning six months of uninterrupted daylight",
+			"Earth is tilted 23.5 degrees on its vertical axis towards the Sun during the Northern Hemisphere's spring"
+		],
+		"note" : ["Vernal is Latin for “spring” & equinox is “equal night“"]
+	 }
+ },
+ {
+	 "season" : "Summer Season",
+	 "name" : "Summer",
+	 "temperature" : "Warmest",
+	 "date" : "1 June - 31 August",
+	 "info" : {
+	 	"facts" : [
+			"The Northern Hemisphere faces towards the Sun during the June Solstice, thus experiencing summer",
+			"In the Northern Hemisphere summer lasts from the Summer Solstice (about 21 June) to the Autumnal Equinox (September 22 or 23)",
+      "The reason the equinoxes and solstices don’t always come on the same day is that Earth doesn’t circle the Sun in exactly 365 days",
+			"At the summer solstice, the days are longest and the nights are shortest, with day-length decreasing as the season progresses after the solstice",
+			"One might think that since it is summer in the Northern Hemisphere, the Earth is closest to the Sun during the June Solstice but the Earth is actually farthest from the Sun during this time of the year"
+		],
+		"note" : ["Solstices happen twice a year – in June and December "]
+	 }
+ },
+ {
+	 "season" : "Autumn Season",
+	 "name" : "Autumn",
+	 "temperature" : "Colder",
+	 "date" : "1 September - 30 November",
+	 "info" : {
+	 	"facts" : [
+			"In the Northern Hemisphere autumn lasts from the autumnal equinox (September 22 or 23) to the Winter Solstice (21 or 22 December)",
+			"Autumn is the transition season between summer and winter, best noticed by the color change in leaves and the harvest",
+			"Autumn ends with the winter solstice and the beginning of the winter season",
+			"According to NASA, autumn is “aurora season” because geomagnetic storms are about twice as frequent as the annual average during the fall"
+		],
+		"note" : ["Pluviophile is a person who loves rainy days"]
+	 }
+ }
+]
